@@ -10,6 +10,14 @@ and then " NuGet\Install-Package Microsoft.EntityFrameworkCore.Tools  " for tool
 
 moving forward to generate datadet use cmd line as "add-migration ExpenseMigration "<br>
 
+in the ExpenseDBContext.cs , there is function name UseSqlServer Change the path of your database from getting it after u create data base .<br>
+
+that path will be found in Server Explorer , clicking right click on name of database table and selecting properties <br>
+
+at right side corner properties will be seen and over their the path that need to copied is in connection string . <br>
+
+that will build connection establishment between databse. <br>
+
 later on "update-databse " so that everything that written in ![Screenshot (2)](https://user-images.githubusercontent.com/102275971/212401765-43028d04-fc99-4ed3-992a-116ba693294c.png)
 
 this shows database after migrating 
