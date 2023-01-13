@@ -1,5 +1,6 @@
-To start this project basic need is microsoft visual studio code 2022
-in their while you start , clone this project by selecting clone a repository which offen is 1st option when user open studio ,
+To start this project basic need is microsoft visual studio code 2022 <br>
+
+in their while you start , clone this project by selecting clone a repository which offen is 1st option when user open studio , <br>
 moving ahead install reqiured package by clicking on tools ->NuGet Package Manager -> Package Manager Console
 then enter command line as " NuGet\Install-Package Microsoft.EntityFrameworkCore.SqlServer " for sql server 
 and then " NuGet\Install-Package Microsoft.EntityFrameworkCore.Tools  " for tools 
