@@ -1,6 +1,6 @@
 To start this project basic need is microsoft visual studio code 2022 <br>
 
-in their while you start , clone this project by selecting clone a repository which offen is 1st option when user open studio , <br>
+in their when user open stdio option of clone this project is seen that you need by select by clicking  clone a repository which offen is 1st option. <br>
 
 moving ahead install reqiured package by clicking on tools ->NuGet Package Manager -> Package Manager Console<br>
 
